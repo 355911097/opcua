@@ -6,4 +6,4 @@ Go OPCUA library: https://github.com/gopcua/opcua
 OPCUA Server: https://www.prosysopc.com/products/opc-ua-simulation-server
 
 
-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
+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

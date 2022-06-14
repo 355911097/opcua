@@ -4,7 +4,7 @@ import (
 	"crypto"
 	"crypto/hmac"
 
-	"scada_da/pkg/scada/OPCUA/opcua/errors"
+	"github.com/355911097/opcua/errors"
 )
 
 type HMAC struct {

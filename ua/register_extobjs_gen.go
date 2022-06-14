@@ -7,7 +7,7 @@
 package ua
 
 import (
-	"scada_da/pkg/scada/OPCUA/opcua/id"
+	"github.com/355911097/opcua/id"
 )
 
 func init() {

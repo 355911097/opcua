@@ -10,9 +10,9 @@ import (
 	"net"
 	"sync/atomic"
 
-	"scada_da/pkg/scada/OPCUA/opcua/debug"
-	"scada_da/pkg/scada/OPCUA/opcua/errors"
-	"scada_da/pkg/scada/OPCUA/opcua/ua"
+	"github.com/355911097/opcua/debug"
+	"github.com/355911097/opcua/errors"
+	"github.com/355911097/opcua/ua"
 )
 
 const (

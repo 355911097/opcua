@@ -5,7 +5,7 @@ import (
 )
 
 // Prefix is the default error string prefix
-const Prefix = "scada_da/pkg/scada/OPCUA/opcua: "
+const Prefix = "github.com/355911097/opcua: "
 
 // Errorf is a wrapper for `errors.Errorf`
 func Errorf(format string, a ...interface{}) error {

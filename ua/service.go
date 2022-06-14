@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"scada_da/pkg/scada/OPCUA/opcua/debug"
+	"github.com/355911097/opcua/debug"
 )
 
 // svcreg contains all known service request/response objects.

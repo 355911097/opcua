@@ -2,7 +2,7 @@ package opcua
 
 import (
 	"github.com/pascaldekloe/goe/verify"
-	"scada_da/pkg/scada/OPCUA/opcua/ua"
+	"github.com/355911097/opcua/ua"
 	"testing"
 )
 

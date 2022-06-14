@@ -9,8 +9,8 @@ import (
 	"crypto/x509"
 	"encoding/binary"
 
-	"scada_da/pkg/scada/OPCUA/opcua/ua"
-	"scada_da/pkg/scada/OPCUA/opcua/uapolicy"
+	"github.com/355911097/opcua/ua"
+	"github.com/355911097/opcua/uapolicy"
 )
 
 // NewSessionSignature issues a new signature for the client to send on the next ActivateSessionRequest

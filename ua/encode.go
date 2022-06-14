@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"time"
 
-	"scada_da/pkg/scada/OPCUA/opcua/debug"
-	"scada_da/pkg/scada/OPCUA/opcua/errors"
+	"github.com/355911097/opcua/debug"
+	"github.com/355911097/opcua/errors"
 )
 
 // debugCodec enables printing of debug messages in the opcua codec.

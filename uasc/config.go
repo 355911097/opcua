@@ -8,7 +8,7 @@ import (
 	"crypto/rsa"
 	"time"
 
-	"scada_da/pkg/scada/OPCUA/opcua/ua"
+	"github.com/355911097/opcua/ua"
 )
 
 // Config represents a configuration which UASC client/server has in common.

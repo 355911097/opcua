@@ -13,7 +13,7 @@ import (
 	_ "crypto/sha1"
 	_ "crypto/sha256"
 
-	"scada_da/pkg/scada/OPCUA/opcua/errors"
+	"github.com/355911097/opcua/errors"
 )
 
 /*

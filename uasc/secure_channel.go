@@ -14,11 +14,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"scada_da/pkg/scada/OPCUA/opcua/debug"
-	"scada_da/pkg/scada/OPCUA/opcua/errors"
-	"scada_da/pkg/scada/OPCUA/opcua/ua"
-	"scada_da/pkg/scada/OPCUA/opcua/uacp"
-	"scada_da/pkg/scada/OPCUA/opcua/uapolicy"
+	"github.com/355911097/opcua/debug"
+	"github.com/355911097/opcua/errors"
+	"github.com/355911097/opcua/ua"
+	"github.com/355911097/opcua/uacp"
+	"github.com/355911097/opcua/uapolicy"
 )
 
 const (

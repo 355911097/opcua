@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"scada_da/pkg/scada/OPCUA/opcua/ua"
-	"scada_da/pkg/scada/OPCUA/opcua/uapolicy"
-	"scada_da/pkg/scada/OPCUA/opcua/uasc"
+	"github.com/355911097/opcua/ua"
+	"github.com/355911097/opcua/uapolicy"
+	"github.com/355911097/opcua/uasc"
 
 	"github.com/pascaldekloe/goe/verify"
 )

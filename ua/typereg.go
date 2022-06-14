@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"sync"
 
-	"scada_da/pkg/scada/OPCUA/opcua/errors"
+	"github.com/355911097/opcua/errors"
 )
 
 // TypeRegistry provides a registry for Go types.

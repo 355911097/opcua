@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"scada_da/pkg/scada/OPCUA/opcua/errors"
+	"github.com/355911097/opcua/errors"
 
 	"github.com/pascaldekloe/goe/verify"
 )

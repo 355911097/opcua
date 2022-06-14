@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"time"
 
-	"scada_da/pkg/scada/OPCUA/opcua/debug"
-	"scada_da/pkg/scada/OPCUA/opcua/errors"
-	"scada_da/pkg/scada/OPCUA/opcua/id"
-	"scada_da/pkg/scada/OPCUA/opcua/ua"
-	"scada_da/pkg/scada/OPCUA/opcua/uasc"
+	"github.com/355911097/opcua/debug"
+	"github.com/355911097/opcua/errors"
+	"github.com/355911097/opcua/id"
+	"github.com/355911097/opcua/ua"
+	"github.com/355911097/opcua/uasc"
 )
 
 const (

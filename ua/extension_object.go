@@ -5,8 +5,8 @@
 package ua
 
 import (
-	"scada_da/pkg/scada/OPCUA/opcua/errors"
-	"scada_da/pkg/scada/OPCUA/opcua/id"
+	"github.com/355911097/opcua/errors"
+	"github.com/355911097/opcua/id"
 )
 
 // eotypes contains all known extension objects.

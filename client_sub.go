@@ -6,10 +6,10 @@ import (
 	"log"
 	"time"
 
-	"scada_da/pkg/scada/OPCUA/opcua/debug"
-	"scada_da/pkg/scada/OPCUA/opcua/errors"
-	"scada_da/pkg/scada/OPCUA/opcua/ua"
-	"scada_da/pkg/scada/OPCUA/opcua/uasc"
+	"github.com/355911097/opcua/debug"
+	"github.com/355911097/opcua/errors"
+	"github.com/355911097/opcua/ua"
+	"github.com/355911097/opcua/uasc"
 )
 
 // Subscribe creates a Subscription with given parameters.

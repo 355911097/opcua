@@ -7,7 +7,7 @@ package uasc
 import (
 	"fmt"
 
-	"scada_da/pkg/scada/OPCUA/opcua/ua"
+	"github.com/355911097/opcua/ua"
 )
 
 // SequenceHeader represents a Sequence Header in OPC UA Secure Conversation.

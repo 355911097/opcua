@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"scada_da/pkg/scada/OPCUA/opcua/id"
+	"github.com/355911097/opcua/id"
 
-	"scada_da/pkg/scada/OPCUA/opcua/ua"
+	"github.com/355911097/opcua/ua"
 )
 
 func TestMessage(t *testing.T) {

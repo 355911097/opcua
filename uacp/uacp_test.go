@@ -7,7 +7,7 @@ package uacp
 import (
 	"testing"
 
-	"scada_da/pkg/scada/OPCUA/opcua/ua"
+	"github.com/355911097/opcua/ua"
 )
 
 func TestHello(t *testing.T) {

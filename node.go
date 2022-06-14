@@ -7,8 +7,8 @@ package opcua
 import (
 	"strings"
 
-	"scada_da/pkg/scada/OPCUA/opcua/id"
-	"scada_da/pkg/scada/OPCUA/opcua/ua"
+	"github.com/355911097/opcua/id"
+	"github.com/355911097/opcua/ua"
 )
 
 // Node is a high-level object to interact with a node in the

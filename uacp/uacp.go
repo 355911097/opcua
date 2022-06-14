@@ -5,8 +5,8 @@
 package uacp
 
 import (
-	"scada_da/pkg/scada/OPCUA/opcua/errors"
-	"scada_da/pkg/scada/OPCUA/opcua/ua"
+	"github.com/355911097/opcua/errors"
+	"github.com/355911097/opcua/ua"
 )
 
 // MessageType definitions.

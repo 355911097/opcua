@@ -11,7 +11,7 @@ import (
 	"testing"
 
 	"github.com/pascaldekloe/goe/verify"
-	"scada_da/pkg/scada/OPCUA/opcua/ua"
+	"github.com/355911097/opcua/ua"
 )
 
 // CodecTestCase describes a test case for a encoding and decoding an

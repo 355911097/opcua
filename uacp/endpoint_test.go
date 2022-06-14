@@ -47,13 +47,13 @@ func TestResolveEndpoint(t *testing.T) {
 			"tcp://10.0.0.1:4840/foo/bar",
 			"",
 			nil,
-			"scada_da/pkg/scada/OPCUA/opcua: invalid endpoint tcp://10.0.0.1:4840/foo/bar",
+			"github.com/355911097/opcua: invalid endpoint tcp://10.0.0.1:4840/foo/bar",
 		},
 		{ // Invalid, bad formatted schema
 			"opc.tcp:/10.0.0.1:4840/foo1337bar/baz",
 			"",
 			nil,
-			"scada_da/pkg/scada/OPCUA/opcua: could not resolve address foo1337bar:4840",
+			"github.com/355911097/opcua: could not resolve address foo1337bar:4840",
 		},
 	}
 
